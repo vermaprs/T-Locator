@@ -12,9 +12,12 @@ T-Locator provides the prediction and scheduled time for different lines in Bost
 - Real-Time location of the train on map.
 - Real-Time location of all trains on a particular subway line.
 
+1. Select Subway Line -
 
 <img src='https://github.com/vermaprs/T-Locator/blob/master/Images/0.jpg' height='700' width='400'>
 
-<img src='https://github.com/vermaprs/T-Locator/blob/master/Images/1.jpg' height='700' width='400'>
+2. Select Stop -
+<img src='https://github.com/vermaprs/T-Locator/blob/master/Images/5.jpg' height='700' width='400'>
 
-<img src='https://github.com/vermaprs/T-Locator/blob/master/Images/2.jpg' height='700' width='400'>
+3. Scheduled Time and Predicted time for subway for selected stop
+<img src='https://github.com/vermaprs/T-Locator/blob/master/Images/3.jpg' height='700' width='400'>
