@@ -11,6 +11,6 @@ T-Locator provides the prediction and scheduled time for different lines in Bost
 - Real-Time location of all trains on a particular subway line.
 
 
-<img src='https://github.com/vermaprs/T-Locator/blob/master/Images/0.jpg'>
+<img src='https://github.com/vermaprs/T-Locator/blob/master/Images/0.jpg' height='200' width='200'>
 
 
