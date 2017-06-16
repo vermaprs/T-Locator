@@ -1,6 +1,8 @@
 
 T-Locator iOS APP
 
+Link to App Store: https://itunes.apple.com/us/app/t-locator/id1227379596?ls=1&mt=8
+
 This App uses MBTA APIv2.
 
 T-Locator provides the prediction and scheduled time for different lines in Boston Subway. Below are the uses of the app -
