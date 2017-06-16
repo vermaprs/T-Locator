@@ -15,4 +15,6 @@ T-Locator provides the prediction and scheduled time for different lines in Bost
 
 <img src='https://github.com/vermaprs/T-Locator/blob/master/Images/0.jpg' height='700' width='400'>
 
+<img src='https://github.com/vermaprs/T-Locator/blob/master/Images/1.jpg' height='700' width='400'>
 
+<img src='https://github.com/vermaprs/T-Locator/blob/master/Images/2.jpg' height='700' width='400'>
